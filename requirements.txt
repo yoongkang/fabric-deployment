@@ -1,0 +1,4 @@
+fabric==2.4.0
+invoke==1.2.0
+patchwork==1.0.1
+paramiko==2.4.2
