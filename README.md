@@ -29,7 +29,7 @@ I'm also using `pipenv` for package management on my servers, but if you don't u
 Run the following command:
 
 ```
-usage: fabfile deploy [--no-migrate] [--no-dependencies] [--collectstatic]
+usage: fab deploy [--no-migrate] [--no-dependencies] [--collectstatic]
 
 options:
 
